@@ -1,0 +1,1 @@
+console.log('Bienvenidos a nuestra app de note');
